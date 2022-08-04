@@ -1,9 +1,5 @@
-body{
-  background-color: gray;
-  }
-  #box {
-    background-color: purple;
-    }
-  #content {
-    background-color: maroon;
-        }
+p{
+  font-size: 130%;
+  background-color: purple;
+  color: white;
+}
